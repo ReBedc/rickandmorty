@@ -4,7 +4,7 @@
 Rick and Morty API Exercise resolution.
 #### Code resolution: https://github.com/ReBedc/rickandmorty
 
-###### The resolution of this exercise was implemented using: Java (v11), SpringBoot (v2.6.4), Maven, Lombok and for tests JUnit, Mockito.
+###### The resolution of this exercise was implemented using: Java (v19), SpringBoot (v2.6.4), Maven (v3.9.0), Lombok and for tests JUnit, Mockito.
 
 
 
